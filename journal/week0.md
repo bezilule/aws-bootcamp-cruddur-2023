@@ -42,3 +42,11 @@ I recreated my first conceptual diagram.
 I recreated Logical Artchitecual Design and here is the proof.
 
 ![Cruddur Logical Design](../_docs/assets/Week-0%20Cruddur%20-%20Logic%20Diagram%20Proof.png)
+
+
+### Challenge Homework/Task
+
+I destroyed my root account credintials, set MFA, for both my root and admin user accounts.
+
+![Image of IAM Dashboard](../_docs/assets/Week-0%20proof%20of%20MFA%20enabled%20on%20root%20and%20admin%20user%20accounts.png) 
+
