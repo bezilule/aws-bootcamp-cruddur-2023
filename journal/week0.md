@@ -50,3 +50,4 @@ I destroyed my root account credintials, set MFA, for both my root and admin use
 
 ![Image of IAM Dashboard](../_docs/assets/Week-0%20proof%20of%20MFA%20enabled%20on%20root%20and%20admin%20user%20accounts.png) 
 
+
