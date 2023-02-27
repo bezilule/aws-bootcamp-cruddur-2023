@@ -16,6 +16,7 @@ from services.show_activity import *
 app = Flask(__name__)
 frontend = os.getenv('FRONTEND_URL')
 backend = os.getenv('BACKEND_URL')
+print(frontend, backend)
 origins = [frontend, backend]
 cors = CORS(
   app, 
