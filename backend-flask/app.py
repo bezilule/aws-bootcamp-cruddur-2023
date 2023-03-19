@@ -88,7 +88,7 @@ def data_create_message():
 @app.route("/api/activities/home", methods=['GET'])
 def data_home():
   app.logger.debug("AUTH HEADER")
-  print(
+  app.logger.debug(
     request.headers.get('Authorization')
   )
   data = HomeActivities.run()
