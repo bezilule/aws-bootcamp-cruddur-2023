@@ -109,7 +109,7 @@ def data_home(cognito_user_id=None):
       # unauthenticated request
       app.logger.debug(e)
       app.logger.debug("unauthenticated")
-      
+      data = HomeActivities.run()
   return data, 200    
     
 

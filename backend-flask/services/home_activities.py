@@ -56,6 +56,5 @@ class HomeActivities:
       }
 
       results.insert(0,extra_crud)
-    
-    span.set_attribute("app.result_length", len(results))
+      
     return results
